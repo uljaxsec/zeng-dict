@@ -140,7 +140,15 @@ export default [
       '/Go/GC.md',
       '/Go/阻塞.md',
       '/Go/映射.md',
-
+      '/Go/堆栈.md',
+      '/Go/切片.md',
+      '/Go/调度器.md',
+      '/Go/反射.md',
+      '/Go/panic.md',
+      '/Go/chan.md',
+      '/Go/垃圾回收器.md',
+      '/Go/并发.md',
+      '/Go/结构体.md',
     ]
   }
 ]
