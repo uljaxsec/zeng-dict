@@ -44,6 +44,8 @@ export default {
     ],
     sidebar: configSidebar,
     sidebarDepth: 2,
+    lastUpdated: false,
+    contributors: false,
     // custom containers
     tip: '提示',
     warning: '注意',
